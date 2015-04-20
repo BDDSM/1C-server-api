@@ -1,0 +1,12 @@
+*.project
+*.settings/
+*.classpath
+*.directory
+*.iml
+*.ipr
+*.ids
+*.iws
+*target/
+java/*
+.idea
+*log/
